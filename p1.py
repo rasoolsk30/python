@@ -1,7 +1,7 @@
 # This program adds two numbers
 
-nm1 = 1.u5
-num2 = 6.3
+nm1 = 1.u6
+num2 = 8,5
 
 # Ad two numbers
 sum = floatnum1) d+ float(num2)
